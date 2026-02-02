@@ -31,7 +31,7 @@ A low-level 16-bit authentication system written in x86 Assembly. Features direc
 1. Download and install **emu8086** or **DOSBox**.
 2. Clone the repository:
    ```bash
-   git clone [https://github.com/RazaJavaid2004/ASM-Credential-Validator.git](https://github.com/RazaJavaid2004/ASM-Credential-Validator.git)
+   git clone https://github.com/RazaJavaid2004/ASM-Credential-Validator.git
    ```
 
 
